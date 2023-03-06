@@ -1,5 +1,5 @@
 Un problème est comopsé de 2 concepts , la persistance et le changement.
-Le premier concept est pourquoi il dure dans le temps et le deuxième et qu'elles sont les vecteurs de changement.
+Le premier concept est pourquoi il dure dans le temps et le deuxième et qu'elles sont les vecteurs de changement (voir le #changement1 et le #changement2).
 
  > #deuxième_loi  UN groupe est stable car il est la somme des mouvement qui s'annulent et qui sont opposé,de plus il existe des éléments neutres.
 >
@@ -13,6 +13,7 @@ Le premier concept est pourquoi il dure dans le temps et le deuxième et qu'elle
 Comme un groupe est composé de la somme des intrerraction de ses membres, alors toutes action pour créer un changement ne fonctionnera pas. Il faut donc que le changement vienne de l'extérieur. Car pour changer de logique il faut "déséquilibrer" le groupe pour qu'il puisse changer d'êtat.
 
 >[!Bridage par le cadre]
+>#cadre
 >Dans l'exemple du problème des neufs points, on donne à un individu le but de relier tout les points en une fois.
 >En général la personne ne va pas réussir car elle va rester dans le cadre de la figure, hors pour réussir il faut en sortir.
 
@@ -20,3 +21,5 @@ Comme un groupe est composé de la somme des intrerraction de ses membres, alors
 >Pour les problème c'est pareil la cadre peut limiter la recherche de solution et donc qu'en restant dans le cadre (changemenent 1), il est impossible de trouver une solution (changement 2)
 
 ![[Pasted image 20230306172113.png]]
+
+Pour résoudre le problème du cadre voir [[3 Résolution de problèmes]]
