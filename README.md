@@ -1,0 +1,2 @@
+# Bliblioteque_obsidian
+ 
