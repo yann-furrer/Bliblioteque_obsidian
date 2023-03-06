@@ -1,0 +1,171 @@
+{
+  "main": {
+    "id": "1cdb66254539e96e",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab721e0b060f3b09",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5958498fcb4ce59a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapitre/2 Génèse des problèmes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1af6896ddf69bf7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapitre/3 Résolution de problèmes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "71dd0c3682517855",
+    "type": "split",
+    "children": [
+      {
+        "id": "c559e8e5c38b0980",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fba57690758024d8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "28f2b162a2301748",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "344fafaa1107ca22",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ddad41f282a3acd3",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f5ac225e3b87060",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f902c81852bcdf16",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Chapitre/3 Résolution de problèmes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "eac2fc49a901912b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Chapitre/3 Résolution de problèmes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a27b197d17c4a5a1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b74d0f875530e180",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Chapitre/3 Résolution de problèmes.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "1af6896ddf69bf7c",
+  "lastOpenFiles": [
+    "Chapitre/1 Permanence et changement.md",
+    "Chapitre/3 Résolution de problèmes.md",
+    "Chapitre/2 Génèse des problèmes.md",
+    "théorie/Théorie des groupes.md",
+    "2023-03-06.md",
+    "théorie/Théorie des type logique - paradoxe de russel.md"
+  ]
+}

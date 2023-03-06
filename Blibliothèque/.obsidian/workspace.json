@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "b043eba3763b314f",
+    "type": "split",
+    "children": [
+      {
+        "id": "1ca898f329f550ad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43ad27176e2ba7d4",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "832a5032448b983b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Changement paradoxe et psychotérapie/Chapitre/Génèse des problèmes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "be64821c760c2362",
+    "type": "split",
+    "children": [
+      {
+        "id": "433d5c1d2750762b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19ca95a2468e3f7f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "817a6f80661f9446",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#quatrième_loi",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a738a319f2eb559e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "78e47ce0a07bc3a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ed62c6686186fd4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f1f7334b783d748a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Changement paradoxe et psychotérapie/Chapitre/Génèse des problèmes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7f20ec1ad984c0bf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Changement paradoxe et psychotérapie/Chapitre/Génèse des problèmes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8d72d98390b742c8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9399c504479794a0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Changement paradoxe et psychotérapie/Chapitre/Génèse des problèmes.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "832a5032448b983b",
+  "lastOpenFiles": [
+    "Pasted image 20230306172113.png",
+    "Changement paradoxe et psychotérapie/Chapitre/Génèse des problèmes.md",
+    "Changement paradoxe et psychotérapie/Chapitre/Permanence et changement.md",
+    "Changement paradoxe et psychotérapie/Index math.md",
+    "Changement paradoxe et psychotérapie/théorie/Théorie des groupes.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Changement paradoxe et psychotérapie/Chapitre",
+    "Changement paradoxe et psychotérapie/théorie/Théorie des types logique sociologie.md",
+    "Changement paradoxe et psychotérapie/théorie/Théorie des groupes sociologie.md",
+    "Changement paradoxe et psychotérapie/théorie/Théorie des type logique - paradoxe de russel.md",
+    "yann.md",
+    "Changement paradoxe et psychotérapie/théorie",
+    "Changement paradoxe et psychotérapie"
+  ]
+}
