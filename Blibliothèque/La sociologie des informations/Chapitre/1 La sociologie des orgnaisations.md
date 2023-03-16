@@ -8,7 +8,7 @@
 >[!Situation sociale]
 >**Position, rang, importance qu'occupe une personne dans la société**. Situation sociale; situation bien établie, bien assise; une haute situation.
 
-Le compormtent d'un individu s'harmonise sur le groupe, il influence aussi le gorupe
+Le compormtent d'un individu s'harmonise sur le groupe, il influence aussi le groupe
 (voir notion de groupe [[Théorie des groupes sociologie]])
 
 ## Durkheim
@@ -40,4 +40,18 @@ Le comportement est le plus marqué par les normes
 
 >[!Compostion des normes]
 >Les normes sont créées à partir de jeux de pouvoir dont l'origine est historique et organisationnelle
+
+## Choix d'un modèle interractioniste
+
+>[!Déterminisme individuel]
+>(prédisposition)
+>Comportement expliqué à partit de l'environemment de l'individu
+
+>[!Réalisme totalitaire]
+>compormtent concu comme le résultat de la strucutre social caractérisant la société dans sa globalité
+
+>[!Interractioniste]
+>Comportement interprété comme une action pour parvenir à ses fins
+
+Le sens commun peut contredire des faits sociaux qui eux sont complexe à expliquer et comprendre.
 
